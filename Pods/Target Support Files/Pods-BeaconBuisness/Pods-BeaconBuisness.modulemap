@@ -1,0 +1,6 @@
+framework module Pods_BeaconBuisness {
+  umbrella header "Pods-BeaconBuisness-umbrella.h"
+
+  export *
+  module * { export * }
+}
